@@ -16,7 +16,7 @@ install
 2. Navigating Files and Directories
 -	How can I move around on my computer?
 -  How can I specify the location of a file or directory on my computer?
-5. Working With Files and Directories
+3. Working With Files and Directories
  -	How can I create, copy, and delete files and directories?
 -  How can I edit files?
 ## Reading material
