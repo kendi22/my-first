@@ -21,8 +21,8 @@ install
 -  How can I edit files?
 ## Reading material
 
-- [capetries resources](https://swcarpentry.github.io/shell-novice/)
-
+- [capentries resources](https://swcarpentry.github.io/shell-novice/)
+-[ my link] ( https://swcarpentry.github.io/git-novice/)
 
 
 # Day Three
