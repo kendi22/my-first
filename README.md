@@ -19,6 +19,7 @@ install
 5. Working With Files and Directories
  -	How can I create, copy, and delete files and directories?
 -  How can I edit files?
+[capetries resources](https://swcarpentry.github.io/shell-novice/)
 
 
 
