@@ -24,6 +24,7 @@ install
 - [capentries resources](https://swcarpentry.github.io/shell-novice/)
 
 - [my link](https://swcarpentry.github.io/git-novice/)
+[love](![image](https://user-images.githubusercontent.com/123540599/214551903-7435e72a-f236-458f-a2b6-d66389daf7dc.png)
 
 
 # Day Three
