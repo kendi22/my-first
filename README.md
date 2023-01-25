@@ -23,7 +23,7 @@ install
 
 - [capentries resources](https://swcarpentry.github.io/shell-novice/)
 
--[my link](https://swcarpentry.github.io/git-novice/)
+- [my link](https://swcarpentry.github.io/git-novice/)
 
 
 # Day Three
